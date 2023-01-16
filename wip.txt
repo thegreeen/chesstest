@@ -1,5 +1,5 @@
 <color=red>Work in progress:
-(Jakob stinkt)
+
 en passant
 castling
 illegal moves
