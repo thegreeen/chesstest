@@ -1,5 +1,4 @@
 <color=red>Work in progress:
 
 en passant
-castling
-illegal moves
+casteling
