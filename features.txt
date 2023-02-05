@@ -1,1 +1,1 @@
-WOW, illegal moves now illegal!
+WOW, castling now 99% working!
